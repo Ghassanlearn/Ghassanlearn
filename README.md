@@ -1,0 +1,5 @@
+- 👋 Hi, I’m GhassanZ@GitHub
+- 👀 I’m interested in Data Analytics and Business Intelligence
+- 🌱 I’m currently learning Realtime Data Streaming using KAFKA
+- 💞️ I’m looking to collaborate on Realtime data streaming projects
+- 📫 How to reach me Ghassanlearn@gmail.com
